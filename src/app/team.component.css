@@ -1,0 +1,19 @@
+.team-mage{
+    display: inline-block;
+    padding: 11px 95px;
+    background-color: #eee;
+    border: 1px solid #945928;
+}
+.team-mates-container{
+    text-align: center;
+    margin-top: 80px;
+}
+.add-supporter-container{
+    text-align: center;
+    margin-top: 40px;
+}
+.add-supporter-container a{
+    text-decoration: none;
+    color: #945928;
+    font-size: 18px;
+}

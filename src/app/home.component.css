@@ -1,0 +1,9 @@
+.home-container{
+    text-align: center;
+    height: 300px;
+    padding-top: 125px;
+}
+.home-container button{
+    background-color: #945928;
+    border: none;
+}
